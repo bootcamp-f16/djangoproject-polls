@@ -1,0 +1,31 @@
+body {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.jumbotron-index {
+    text-align: center;
+}
+
+.jumbotron-index .row {
+    margin-top: 70px;
+}
+
+.jumbotron-index a {
+    font-size: 36px;
+    text-transform: uppercase;
+}
+
+.page-footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #fff;
+}
+.page-footer hr {
+    margin-top: 0;
+}
+
+.radio {
+    margin-left: 20px;
+}
